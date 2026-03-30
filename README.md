@@ -19,9 +19,9 @@ An Arduino-based 2-DOF robotic arm that mimics mouse movements from a computer s
 7. External Power: 5V to Servos (Common Ground with Arduino)
 
 ​# How to Use
-​1. Arduino: ' sketch_mar27plotter.ino ' ko upload karein.
-2. ​Processing: DrawingPad.pde ko kholin aur apna COM port select karein.
-3. ​Run: Processing mein 'Run' dabayein aur mouse se canvas par draw karein. 
+​1. Arduino: ' sketch_mar27plotter.ino ' ko upload karein 
+2. ​Processing: DrawingPad.pde ko kholin aur apna COM port select karein 
+3. ​Run: Processing mein 'Run' dabayein aur mouse se canvas par draw karein 
 
 # Author 
 PARI GUPTA 
