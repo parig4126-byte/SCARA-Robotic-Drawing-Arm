@@ -23,3 +23,7 @@ An Arduino-based 2-DOF robotic arm that mimics mouse movements from a computer s
 2. ​Processing: DrawingPad.pde ko kholin aur apna COM port select karein.
 3. ​Run: Processing mein 'Run' dabayein aur mouse se canvas par draw karein. 
 
+# Author 
+PARI GUPTA 
+LINKEDIN: [ https://www.linkedin.com/in/pari-gupta-4a188139b ]
+E-MAIL: [ parig4126@gmail.com ]
